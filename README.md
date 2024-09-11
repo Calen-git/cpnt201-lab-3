@@ -39,6 +39,6 @@
 ![spotify-logo](spotify.jpg)
 
 greetings
-i am a robot
+i am a pimp
 i come to kill
 and suck your toes
