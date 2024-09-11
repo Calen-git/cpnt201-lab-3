@@ -40,5 +40,5 @@
 
 greetings
 i am groot
-i come to kill
+i come to caress
 and suck your toes
