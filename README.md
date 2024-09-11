@@ -1,5 +1,7 @@
 # cpnt201-lab-3
 
+# table of contents
+
 # Today's Top Hits
 
 ## top ten sexiest songs of the summer!
@@ -28,7 +30,4 @@
 - Post Malone and Morgan Wallen
 - Benson Boone
 
-
 ![spotify-logo](spotify.jpg)
-
-# Table of contents
