@@ -38,7 +38,7 @@
 
 ![spotify-logo](spotify.jpg)
 
-hola
+greetings
 i am a robot
 i come to kill
 and suck your toes
