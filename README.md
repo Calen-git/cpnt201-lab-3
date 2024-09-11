@@ -30,3 +30,5 @@
 
 
 ![spotify-logo](spotify.jpg)
+
+# Table of contents
