@@ -41,4 +41,4 @@
 hello
 i am a robot
 i come to kill
-and suck your fingers
+and suck your toes
