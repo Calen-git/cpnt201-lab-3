@@ -2,6 +2,12 @@
 
 # table of contents
 
+- [cpnt201-lab-3](#cpnt201-lab-3)
+- [table of contents](#table-of-contents)
+- [Today's Top Hits](#todays-top-hits)
+  - [top ten sexiest songs of the summer!](#top-ten-sexiest-songs-of-the-summer)
+  - [Names of top 10 artists on Spotify](#names-of-top-10-artists-on-spotify)
+
 # Today's Top Hits
 
 ## top ten sexiest songs of the summer!
