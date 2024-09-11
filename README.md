@@ -41,4 +41,4 @@
 greetings
 i am groot
 i come to caress
-and take your trees
+and take your pots
