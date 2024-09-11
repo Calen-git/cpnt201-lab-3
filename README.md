@@ -40,5 +40,10 @@
 
 greetings
 i am groot
+<<<<<<< HEAD
 i come in peace
 and suck your boba
+=======
+i come to caress
+and take your trees
+>>>>>>> d3941af4c9448e4b1885447d19e9ffb4d6dd9fb9
