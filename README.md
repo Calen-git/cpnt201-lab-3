@@ -14,3 +14,14 @@
 8. Too Sweet
 9. I had some help
 10. Slow it down
+
+- Billie Eilish
+- Lady Gaga and Bruno Mars
+- Sabrina Carpenter
+- Chappel Roan
+- Charli XcX and Billie Eilish
+- Shaboozey
+- Sabrina Carpenter
+- Hozier
+- Post Malone and Morgan Wallen
+- Benson Boone
